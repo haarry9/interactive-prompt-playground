@@ -74,3 +74,9 @@ The app will open in your default browser at `http://localhost:8501`
 ### Sample Prompts
 
 ![Output](output.png)
+
+### Reflections
+
+Playing with the OpenAI model parameters in the Interactive Prompt Playground was a cool experience. With gpt-3.5-turbo set to a temperature of 0.0 and token limit at 50, the result was a neat, poetic blurb about iPhone 5, that stopped when hitting the token limit. It was clean and focused but felt like it was holding back. When I bumped the temperature to 0.7, stretched max tokens to 150, and added some frequency and presence penalties, the output for the Tesla Model S5 came alive. It painted a vivid picture of a car that “glides with grace” and “ignites a passion,” showing how a bit of warmth and room to breathe let the model stretch its creative legs, while penalties kept it from rambling.
+
+Then, switching to gpt-4o with a fiery temperature of 1.2, 300 max tokens, and maxed-out penalties, the output turned into something almost magical. The Tesla Model S5 became a “chariot of whispers and wonders,” with poetic flourishes that felt like they were pulled from a dream. It was longer, richer, and packed with imagery—like “cobalt hues reflecting starlight”—that made the car sound like a piece of art. The higher settings and stronger model clearly unleashed a flood of creativity, turning a simple prompt into a story that felt personal and alive. It’s fascinating how these tweaks can transform a few words into something so distinct, like coaxing different voices out of the same instrument.
