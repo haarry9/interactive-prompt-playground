@@ -13,7 +13,7 @@ A user-configurable Streamlit application for testing and comparing OpenAI model
 - **Custom Prompts**: Configurable system and user prompts
 - **Stop Sequences**: Define custom stop sequences for output control
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -60,18 +60,9 @@ The app will open in your default browser at `http://localhost:8501`
 5. **Compare Results**: View all outputs in the results table
 6. **Document Insights**: Use the reflection area to note observations
 
-## 🔬 Experiment Suggestions
+## 🔬 Experiment
 
-### Recommended Test Values
-
-| Parameter | Test Values |
-|-----------|-------------|
-| Temperature | 0.0, 0.7, 1.2 |
-| Max Tokens | 50, 150, 300 |
-| Presence Penalty | 0.0, 1.5 |
-| Frequency Penalty | 0.0, 1.5 |
-
-### Sample Prompts
+### Model Outputs
 
 ![Output](output.png)
 
